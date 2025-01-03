@@ -5,8 +5,8 @@
     "Luis Montes"
   ],
   "license": "MIT",
-  "name": "@abandonware/noble",
-  "description": "A Node.js BLE (Bluetooth Low Energy) central library.",
+  "name": "@gouach/noble",
+  "description": "A Node.js BLE (Bluetooth Low Energy) central library (gouach fork to remove dependency on ws)",
   "version": "1.9.2-25",
   "repository": {
     "type": "git",
