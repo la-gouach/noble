@@ -6,8 +6,8 @@
   ],
   "license": "MIT",
   "name": "@gouach/noble",
-  "description": "A Node.js BLE (Bluetooth Low Energy) central library (gouach fork to remove dependency on ws)",
-  "version": "1.9.2-25",
+  "description": "A Node.js BLE (Bluetooth Low Energy) central library (gouach fork to remove dependency on ws, add a file to access native bindings)",
+  "version": "1.9.2-26",
   "repository": {
     "type": "git",
     "url": "https://github.com/abandonware/noble.git"
